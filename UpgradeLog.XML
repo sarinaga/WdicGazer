@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WdicGazer">
+</Property><Property Name="ソリューション ファイル" Value="C:\Development\VisualStudio\WdicGazer\WdicGazer.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Development\VisualStudio\WdicGazer\WdicGazer.suo">
+</Property><Property Name="Date" Value="2009年6月5日">
+</Property><Property Name="Time" Value="9:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WdicGazer.sln" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="WdicGazer.suo" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\WdicGazer.vbproj" Description="プロジェクト ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\WdicGazer.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\WdicGazer.vbproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\WdicGazer.vbproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\PrevNextData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\PrevNextData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\RowItemAttr.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\RowItemAttr.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\SearchConditionData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\SearchConditionData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\TabControlData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\TabControlData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\WordData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\WordData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\DicReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\DicReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\CommonClass\ErrorFunction.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\CommonClass\ErrorFunction.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\CommonClass\FileSearch.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\CommonClass\FileSearch.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\CommonClass\FileFunction.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\CommonClass\FileFunction.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\CommonClass\StringFunction.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\CommonClass\StringFunction.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\ResultListData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\ResultListData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\Others\UserException.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\Others\UserException.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\WdicClass\WdicCutter.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\WdicClass\WdicCutter.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestEraCheck.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestEraCheck.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestEraCheck.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestEraCheck.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestMain.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestMain.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestMain.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestMain.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\廃棄予定\Environment_.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\廃棄予定\Environment_.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\DirectoryReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\DirectoryReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\EnvironmentReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\EnvironmentReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\FileGlReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\FileGlReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\FileReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\FileReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\TsvReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\TsvReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\FileReaderClass\WlfReader.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\FileReaderClass\WlfReader.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordSearcher.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordSearcher.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordSearcher.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordSearcher.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Main.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Main.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Main.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Main.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\AssemblyInfo.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Application.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Resources.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Settings.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\ResultDisplay.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\ResultDisplay.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\ResultDisplay.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\ResultDisplay.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\SettingOption.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\SettingOption.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\SettingOption.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\SettingOption.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Settings.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Settings.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\Transrate.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\Transrate.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicAbout.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicAbout.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicAbout.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicAbout.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\DataClass\EnvironmentData.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\DataClass\EnvironmentData.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicGazerAbout.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicGazerAbout.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicGazerAbout.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicGazerAbout.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Class\WdicClass\WdicParser.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Class\WdicClass\WdicParser.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordDisplay.designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordDisplay.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordDisplay.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordDisplay.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestWdicDataDisp.Designer.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestWdicDataDisp.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestWdicDataDisp.vb" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestWdicDataDisp.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\app.config" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\app.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Application.myapp" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Settings.settings" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\LangCode.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\LangCode.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\EraList.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\EraList.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\EntityReferences.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\EntityReferences.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\default.css" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\default.css としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\ErrorMessage.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\ErrorMessage.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Icon\GoToNext.bmp" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Icon\GoToNext.bmp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Icon\GoToPrevious.bmp" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Icon\GoToPrevious.bmp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\設計書\Wdicデータ構造設計.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\設計書\Wdicデータ構造設計.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\設計書\単語要素クラス設計.txt" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\設計書\単語要素クラス設計.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordSearcher.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordSearcher.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\Main.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\Main.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\My Project\Resources.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\ResultDisplay.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\ResultDisplay.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\SettingOption.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\SettingOption.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicAbout.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicAbout.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WdicGazerAbout.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WdicGazerAbout.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\SubDialog\WordDisplay.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\SubDialog\WordDisplay.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestMain.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestMain.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\TestDialog\TestWdicDataDisp.resx" Description="ファイルは正常に C:\Development\VisualStudio\WdicGazer\Backup\WdicGazer\TestDialog\TestWdicDataDisp.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\WdicGazer.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="WdicGazer" Source="WdicGazer\WdicGazer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WdicGazer.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="WdicGazer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WdicGazer" Source="WdicGazer\WdicGazer.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

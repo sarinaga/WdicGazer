@@ -1,0 +1,126 @@
+﻿TH 	THA 	Thailand 	タイ 
+KR 	KOR 	Korea, Republic of 	大韓民国 
+TW 	TWN 	Taiwan, Province of China 	台湾（台湾省/中華民国） 
+TJ 	TJK 	Tajikistan 	タジキスタン 
+TZ 	TZA 	Tanzania, United Republic of 	タンザニア 
+CZ 	CZE 	Czech Republic 	チェコ 
+TD 	TCD 	Chad 	チャド 
+CF 	CAF 	Central African Republic 	中央アフリカ 
+CN 	CHN 	China 	中華人民共和国 
+TN 	TUN 	Tunisia 	チュニジア 
+KP 	PRK 	Korea, Democratic People's Republic of 	朝鮮民主主義人民共和国 
+CL 	CHL 	Chile 	チリ 
+TV 	TUV 	Tuvalu 	ツバル 
+DK 	DNK 	Denmark 	デンマーク 
+DE 	DEU 	Germany 	ドイツ 
+TG 	TGO 	Togo 	トーゴ 
+TK 	TKL 	Tokelau 	トケラウ諸島 
+DO 	DOM 	Dominican Republic 	ドミニカ共和国 
+DM 	DMA 	Dominica 	ドミニカ国 
+TT 	TTO 	Trinidad and Tobago 	トリニダード・トバゴ 
+TM 	TKM 	Turkmenistan 	トルクメニスタン 
+TR 	TUR 	Turkey 	トルコ 
+TO 	TON 	Tonga 	トンガ 
+NG 	NGA 	Nigeria 	ナイジェリア 
+NR 	NRU 	Nauru 	ナウル 
+NA 	NAM 	Namibia 	ナミビア 
+AQ 	ATA 	Antarctica 	南極 
+NU 	NIU 	Niue 	ニウエ 
+NI 	NIC 	Nicaragua 	ニカラグア 
+NE 	NER 	Niger 	ニジェール 
+JP 	JPN 	Japan 	日本 
+EH 	ESH 	Western Sahara 	西サハラ 
+NC 	NCL 	New Caledonia 	ニューカレドニア 
+NZ 	NZL 	New Zealand 	ニュージーランド 
+NP 	NPL 	Nepal 	ネパール 
+NF 	NFK 	Norfolk Island 	ノーフォーク島 
+NO 	NOR 	Norway 	ノルウェー 
+BH 	BHR 	Bahrain 	バーレーン 
+HT 	HTI 	Haiti 	ハイチ 
+PK 	PAK 	Pakistan 	パキスタン 
+VA 	VAT 	Holy See (Vatican City State) 	バチカン市国 
+PA 	PAN 	Panama 	パナマ 
+VU 	VUT 	Vanuatu 	バヌアツ 
+BS 	BHS 	Bahamas 	バハマ 
+PG 	PNG 	Papua New Guinea 	パプアニューギニア 
+BM 	BMU 	Bermuda 	バミューダ諸島 
+PW 	PLW 	Palau 	パラオ 
+PY 	PRY 	Paraguay 	パラグアイ 
+BB 	BRB 	Barbados 	バルバドス 
+PS 	PSE 	Palestinian Territory, Occupied 	パレスチナ 
+HU 	HUN 	Hungary 	ハンガリー 
+BD 	BGD 	Bangladesh 	バングラデシュ 
+TL 	TLS 	Timor-Leste 	東ティモール 
+PN 	PCN 	Pitcairn 	ピトケアン 
+FJ 	FJI 	Fiji 	フィジー 
+PH 	PHL 	Philippines 	フィリピン 
+FI 	FIN 	Finland 	フィンランド 
+BT 	BTN 	Bhutan 	ブータン 
+BV 	BVT 	Bouvet Island 	ブーベ島 
+PR 	PRI 	Puerto Rico 	プエルトリコ 
+FO 	FRO 	Faroe Islands 	フェロー諸島 
+FK 	FLK 	Falkland Islands (Malvinas) 	フォークランド諸島 
+BR 	BRA 	Brazil 	ブラジル 
+FR 	FRA 	France 	フランス 
+GF 	GUF 	French Guiana 	フランス領ギアナ 
+PF 	PYF 	French Polynesia 	フランス領ポリネシア 
+TF 	ATF 	French Southern Territories 	フランス領南方・南極地域 
+BG 	BGR 	Bulgaria 	ブルガリア 
+BF 	BFA 	Burkina Faso 	ブルキナファソ 
+BN 	BRN 	Brunei Darussalam 	ブルネイ 
+BI 	BDI 	Burundi 	ブルンジ 
+HM 	HMD 	Heard Island and McDonald Islands 	ヘアド島・マクドナルド諸島 
+VN 	VNM 	Viet Nam 	ベトナム 
+BJ 	BEN 	Benin 	ベナン 
+VE 	VEN 	Venezuela 	ベネズエラ 
+BY 	BLR 	Belarus 	ベラルーシ 
+BZ 	BLZ 	Belize 	ベリーズ 
+PE 	PER 	Peru 	ペルー 
+BE 	BEL 	Belgium 	ベルギー 
+PL 	POL 	Poland 	ポーランド 
+BA 	BIH 	Bosnia and Herzegovina 	ボスニア・ヘルツェゴビナ 
+BW 	BWA 	Botswana 	ボツワナ 
+BO 	BOL 	Bolivia 	ボリビア 
+PT 	PRT 	Portugal 	ポルトガル 
+HK 	HKG 	Hong Kong 	香港 
+HN 	HND 	Honduras 	ホンジュラス 
+MH 	MHL 	Marshall Islands 	マーシャル諸島 
+MO 	MAC 	Macao 	マカオ 
+MK 	MKD 	Macedonia, the former Yugoslav Republic of 	マケドニア共和国 
+MG 	MDG 	Madagascar 	マダガスカル 
+YT 	MYT 	Mayotte 	マヨット島 
+MW 	MWI 	Malawi 	マラウイ 
+ML 	MLI 	Mali 	マリ 
+MT 	MLT 	Malta 	マルタ 
+MQ 	MTQ 	Martinique 	マルチニーク島 
+MY 	MYS 	Malaysia 	マレーシア 
+IM 	IMN 	Isle of Man 	マン島 
+FM 	FSM 	Micronesia, Federated States of 	ミクロネシア連邦 
+ZA 	ZAF 	South Africa 	南アフリカ 
+GS 	SGS 	South Georgia and the South Sandwich Islands 	南ジョージア島・南サンドイッチ諸島 
+MM 	MMR 	Myanmar 	ミャンマー 
+MX 	MEX 	Mexico 	メキシコ 
+MU 	MUS 	Mauritius 	モーリシャス 
+MR 	MRT 	Mauritania 	モーリタニア 
+MZ 	MOZ 	Mozambique 	モザンビーク 
+MC 	MCO 	Monaco 	モナコ 
+MV 	MDV 	Maldives 	モルディブ 
+MD 	MDA 	Moldova, Republic of 	モルドバ 
+MA 	MAR 	Morocco 	モロッコ 
+MN 	MNG 	Mongolia 	モンゴル 
+ME 	MNE 	Montenegro 	モンテネグロ 
+MS 	MSR 	Montserrat 	モントセラト 
+JO 	JOR 	Jordan 	ヨルダン 
+LA 	LAO 	Lao People's Democratic Republic 	ラオス 
+LV 	LVA 	Latvia 	ラトビア 
+LT 	LTU 	Lithuania 	リトアニア 
+LY 	LBY 	Libyan Arab Jamahiriya 	リビア 
+LI 	LIE 	Liechtenstein 	リヒテンシュタイン 
+LR 	LBR 	Liberia 	リベリア 
+RO 	ROU 	Romania 	ルーマニア 
+LU 	LUX 	Luxembourg 	ルクセンブルク 
+RW 	RWA 	Rwanda 	ルワンダ 
+LS 	LSO 	Lesotho 	レソト 
+LB 	LBN 	Lebanon 	レバノン 
+RE 	REU 	Réunion 	レユニオン 
+RU 	RUS 	Russian Federation 	ロシア 

@@ -1,0 +1,287 @@
+/* 基本設定 */
+body
+{
+	background : white;
+
+	border : none;
+	margin : 1em 0em 1em 0em; 
+	padding : 0em;
+
+	font-style : normal;
+	font-weight : normal;
+
+	/*****/font-size : 100%;/*****/
+	
+}
+
+/* 見出し */
+h1
+{
+	border : none;
+	margin : 0.6em 0em 0.6em 0em; 	
+	padding : 0em;
+
+	font-weight : bold;
+	font-size : 170%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 0em;
+}
+
+h2
+{
+	border : none;
+	margin : 0.8em 0em 0.8em 0em; 	
+	padding : 0em;
+
+	font-weight : bold;
+	font-size : 145%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 1em;
+}
+
+h3
+{
+	border : none;
+	margin : 1em 0em 1em 0em; 	
+	padding : 0em;
+
+	font-weight : bold;
+	font-size : 120%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 1.4em;
+}
+
+h4
+{
+	border : none;
+	margin : 1em 0em 0.2em 0em; 	
+	padding : 0em;
+
+	font-weight : normal;
+	font-size : 110%;
+	font-style : italic;
+
+	text-align : left;
+	text-indent : 1.4em;
+
+
+}
+
+h5
+{
+	border : none;
+	margin : 1em 0em 0.2em 0em; 	
+	padding : 0em;
+
+	font-weight : bold;
+	font-size : 100%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 1.6em;
+}
+
+h6
+{
+	border : none;
+	margin : 1em 0em 0.2em 0em; 	
+	padding : 0em;
+
+	font-weight : normal;
+	font-size : 100%;
+	font-style : italic;
+
+	text-align : left;
+	text-indent : 1.6em;
+}
+
+
+/* 主要素 */
+p
+{
+	border : none;
+	margin : 0.15em 1.6em 0.15em 1.6em; 
+	padding : 0em;
+
+	font-weight : normal;
+	font-size : 100%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 0.8em;
+	line-height : 1.4em;
+	
+}
+
+/* 箇条書き */
+div.list
+{
+	border : none;
+	margin : 0.5em 0em 0.5em 2em; 
+	padding : 0em 0em 0em 0em;
+}
+ul
+{
+	border : none;
+	margin : 0em 0em 0em 1em; 
+	padding : 0em 0em 0em 0em;
+}
+ol
+{
+	border : none;
+	margin : 0em 0em 0em 1em; 
+	padding : 0em 0em 0em 0em;
+}
+li
+{
+	border : none;
+	padding : 0.1em 0em 0.1em 0em; 
+
+	font-weight : normal;
+	font-size : 95%;
+	font-style : normal;
+
+	text-align : left;
+	line-height : 1.1em;
+}
+
+/* 見出し付箇条書き */
+div.diclist
+{
+	border : none;
+	margin : 0.5em 0em 0.5em 1em; 
+	padding : 0em 0em 0em 0em;
+}
+dl
+{
+	border : none;
+	margin : 0em 0em 0em 0em; 
+	padding : 0em 0em 0em 0em;
+}
+dt
+{
+	/* h3とh4の中間相当 */
+	border : none;
+	margin : 1em 0em 0.2em 0em; 	
+	padding : 0em;
+
+	font-weight : bold;
+	font-size : 110%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 1.4em;
+
+}
+dd
+{
+	/* p相当 */
+	border : none;
+	margin : 0.15em 1.6em 0.15em 1.6em; 
+	padding : 0em;
+
+	font-weight : normal;
+	font-size : 100%;
+	font-style : normal;
+
+	text-align : left;
+	text-indent : 0.8em;
+	line-height : 1.4em;
+}
+	
+
+/* テーブル類 */
+table
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin : 1em 1em 1em 3em;
+}
+th
+{
+	border : solid 1px black;
+	margin : 0em; 
+	padding : 0.3em;
+
+	font-weight : bold;
+	font-size : 100%;
+	font-style : normal;
+
+	text-align : center;
+}
+td
+{
+	border : solid 1px black;
+	margin : 0em; 
+	padding : 0.3em;
+	
+	font-weight : normal;
+	font-size : 100%;
+	font-style : normal;
+
+	text-align : left;
+}
+
+/* 引用 */
+blockquote
+{
+	border : double 3px black;
+	margin : 1em 2.5em 1em 2.5em; 
+	padding : 0.2em;
+		
+	font-weight : normal;
+	font-size : 100%;
+	font-style : normal;
+}
+
+/* 整形済 */
+pre
+{
+	border : none;
+	margin : 1em 2em 1em 2em; 
+	padding : 0em;
+
+	font-weight : normal;
+	font-size : 95%;
+	font-style : normal;
+	font-family : "ＭＳ ゴシック", Monospace;
+	text-align : left;
+	line-height : 1em;
+}
+
+
+
+
+/* リンク */
+a:link, a:visited
+{
+	color: blue;
+	background-color : transparent;
+	text-decoration : none;
+}
+a:hover
+{
+	color: blue;
+	background-color : yellow;
+	text-decoration : none;
+}
+
+/* 強調表示 */
+em
+{
+	font-weight : normal;
+	font-size : 100%;
+	font-style : italic;
+}
+strong
+{
+	font-weight : bold;
+	font-size : 100%;
+	font-style : normal;
+}
