@@ -333,7 +333,7 @@ Public Class BookmarkEdit
             InputFolderName.ShowDialog()
 
             ' キャンセルのときは処理なし
-            If InputFolderName.DialogResult = Windows.Forms.DialogResult.Cancel Then Exit Sub
+            If InputFolderName.DialogResult = DialogResult.Cancel Then Exit Sub
 
             ' 頭に / が入っている場合はエラー、やり直し
             Dim new_folder As String = InputFolderName.FolderName.Text
@@ -374,7 +374,7 @@ Public Class BookmarkEdit
             InputFolderName.ShowDialog()
 
             ' キャンセルのときは処理なし
-            If InputFolderName.DialogResult = Windows.Forms.DialogResult.Cancel Then Exit Sub
+            If InputFolderName.DialogResult = DialogResult.Cancel Then Exit Sub
 
             ' 頭に / が入っている場合はエラー
             Dim new_folder As String = InputFolderName.FolderName.Text

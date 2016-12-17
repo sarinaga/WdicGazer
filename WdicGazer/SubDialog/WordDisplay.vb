@@ -203,7 +203,7 @@ Public Class WordDisplay
 
         ' 結果返却
         ' 途中で検索を中断した場合はNothingを返す
-        If WordSearcher.DialogResult = Windows.Forms.DialogResult.Cancel Then Return Nothing
+        If WordSearcher.DialogResult = DialogResult.Cancel Then Return Nothing
 
         ' エラーが発生したときはメッセージを表示した上でNothingを返す
         If WordSearcher.SearchResult.ResultList Is Nothing Then

@@ -65,7 +65,8 @@ Public Class Main
         If My.Settings("DirDictionary").ToString.Length = 0 Then
             MsgBox(Environment.ErrorMessage("DIC0000"), MsgBoxStyle.Information)
             SettingOption.ShowDialog()
-            If SettingOption.DialogResult = Windows.Forms.DialogResult.OK Then
+
+            If SettingOption.DialogResult = DialogResult.OK Then
                 ReadEnvironment()
             End If
             If Not Search.Enabled Then
@@ -288,7 +289,7 @@ Public Class Main
         WordSearcher.ShowDialog()
 
         ' 途中中断は終了
-        If WordSearcher.DialogResult = Windows.Forms.DialogResult.Cancel Then Exit Sub
+        If WordSearcher.DialogResult = DialogResult.Cancel Then Exit Sub
         If WordSearcher.SearchResult Is Nothing Then Exit Sub
 
         ' 検索結果0件の時はエラーメッセージを表示

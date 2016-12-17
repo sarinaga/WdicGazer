@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D568ECC-7EE6-4E2B-918F-9715D19107D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WdicGazer.My.MyApplication</StartupObject>
+    <RootNamespace>WdicGazer</RootNamespace>
+    <AssemblyName>WdicGazer</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <OptionStrict>On</OptionStrict>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationIcon>Icon\WdicGazer.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WdicGazer.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <RegisterForComInterop>true</RegisterForComInterop>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WdicGazer.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <RegisterForComInterop>true</RegisterForComInterop>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\DataClass\BookmarkData.vb" />
+    <Compile Include="Class\DataClass\LinkWord.vb" />
+    <Compile Include="Class\DataClass\PrevNextData.vb" />
+    <Compile Include="Class\DataClass\RowItemAttr.vb" />
+    <Compile Include="Class\DataClass\SearchConditionData.vb" />
+    <Compile Include="Class\DataClass\TabControlData.vb" />
+    <Compile Include="Class\DataClass\WordData.vb" />
+    <Compile Include="Class\FileReaderClass\CategoryReader.vb" />
+    <Compile Include="Class\FileReaderClass\DicReader.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\FileReaderClass\FileGlReader.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\FileReaderClass\FileReader.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\FileReaderClass\PlfReader.vb" />
+    <Compile Include="Class\FileReaderClass\TsvReader.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\FileReaderClass\WlfReader.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\Others\ExWebBrowser.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonClass\ErrorFunction.vb" />
+    <Compile Include="CommonClass\FileSearch.vb" />
+    <Compile Include="CommonClass\FileFunction.vb" />
+    <Compile Include="CommonClass\StringFunction.vb" />
+    <Compile Include="Class\DataClass\ResultListData.vb">
+    </Compile>
+    <Compile Include="Class\Others\UserException.vb" />
+    <Compile Include="Class\WdicClass\WdicCutter.vb" />
+    <Compile Include="CommonClass\TreeMenu.vb" />
+    <Compile Include="SubDialog\BookmarkEdit.Designer.vb">
+      <DependentUpon>BookmarkEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\BookmarkEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\EnvironmentReader.vb" />
+    <Compile Include="SubDialog\InputFolderName.Designer.vb">
+      <DependentUpon>InputFolderName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\InputFolderName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubDialog\WordSearcher.designer.vb">
+      <DependentUpon>WordSearcher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\WordSearcher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SubDialog\ResultDisplay.designer.vb">
+      <DependentUpon>ResultDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\ResultDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubDialog\SettingOption.designer.vb">
+      <DependentUpon>SettingOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\SettingOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="Class\Transrate.vb" />
+    <Compile Include="SubDialog\WdicAbout.designer.vb">
+      <DependentUpon>WdicAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\WdicAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\DataClass\EnvironmentData.vb" />
+    <Compile Include="SubDialog\WdicGazerAbout.designer.vb">
+      <DependentUpon>WdicGazerAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\WdicGazerAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\WdicClass\WdicParser.vb" />
+    <Compile Include="SubDialog\WordDisplay.designer.vb">
+      <DependentUpon>WordDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubDialog\WordDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\EraTest.Designer.vb">
+      <DependentUpon>EraTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\EraTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\MainTest.Designer.vb">
+      <DependentUpon>MainTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\MainTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\WdicDataDispTest.Designer.vb">
+      <DependentUpon>WdicDataDispTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\WdicDataDispTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SubDialog\BookmarkEdit.resx">
+      <DependentUpon>BookmarkEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\InputFolderName.resx">
+      <DependentUpon>InputFolderName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\WordSearcher.resx">
+      <DependentUpon>WordSearcher.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\ResultDisplay.resx">
+      <DependentUpon>ResultDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\SettingOption.resx">
+      <DependentUpon>SettingOption.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\WdicAbout.resx">
+      <DependentUpon>WdicAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\WdicGazerAbout.resx">
+      <DependentUpon>WdicGazerAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubDialog\WordDisplay.resx">
+      <DependentUpon>WordDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\MainTest.resx">
+      <DependentUpon>MainTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\WdicDataDispTest.resx">
+      <DependentUpon>WdicDataDispTest.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LangCode.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EraList.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EntityReferences.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CountryCode.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="default.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ErrorMessage.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icon\GoToNext.bmp" />
+    <Content Include="Icon\GoToPrevious.bmp" />
+    <Content Include="Icon\WdicGazer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

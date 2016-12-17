@@ -233,7 +233,7 @@ Public Class SettingOption
     ''' <remarks></remarks>
     Private Sub SelectDir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SelectDir.Click
         FolderBrowserDictionary.SelectedPath = DirDictionary.Text
-        If FolderBrowserDictionary.ShowDialog() = Windows.Forms.DialogResult.OK Then
+        If FolderBrowserDictionary.ShowDialog() = DialogResult.OK Then
             DirDictionary.Text = FolderBrowserDictionary.SelectedPath
         End If
     End Sub
@@ -246,7 +246,7 @@ Public Class SettingOption
     ''' <remarks></remarks>
     Private Sub SelectPlugin_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SelectPlugin.Click
         FolderBrowserPlugin.SelectedPath = DirPlugin.Text
-        If FolderBrowserPlugin.ShowDialog() = Windows.Forms.DialogResult.OK Then
+        If FolderBrowserPlugin.ShowDialog() = DialogResult.OK Then
             DirPlugin.Text = FolderBrowserPlugin.SelectedPath
         End If
     End Sub
@@ -353,7 +353,7 @@ Public Class SettingOption
             OpenFileTextEditor.FileName = System.IO.Path.GetFileName(TextEditorExeFile.Text)
         Catch ex As Exception
         End Try
-        If OpenFileTextEditor.ShowDialog() = Windows.Forms.DialogResult.OK Then
+        If OpenFileTextEditor.ShowDialog() = DialogResult.OK Then
             TextEditorExeFile.Text = OpenFileTextEditor.FileName
         End If
     End Sub
